@@ -9,5 +9,4 @@ Goal: Learn to use canvas by changing its properties on the fly. Dig deeper into
  </p>
   <p align="center">
 Check the mobile version <a href="https://github.com/louiselalanne/paint_mobile">Here</a>.</br>
-  Made with 💙 by Louise.
 </p>
